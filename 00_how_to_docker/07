@@ -1,1 +1,1 @@
-nspect --format '{{ .NetworkSettings.IPAddress }}' overlord
+inspect --format '{{ .NetworkSettings.IPAddress }}' overlord
